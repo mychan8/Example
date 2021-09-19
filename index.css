@@ -310,8 +310,8 @@ h2 {
 }
 
 .background {
-  object-fit: contain;
   background-image: url('./source/background.jpg');
+  background-size: cover;
 }
 
 .vertical {
