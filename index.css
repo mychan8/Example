@@ -304,6 +304,17 @@ h2 {
 .font h3 {
   font-family: "Fira Sans", sans-serif;
 }
+<<<<<<< HEAD
+=======
+.white {
+  color: white;
+}
+
+.background {
+  object-fit: contain;
+  background-image: url('./source/background.jpg');
+}
+>>>>>>> bg
 
 .vertical {
   writing-mode: tb-rl;
